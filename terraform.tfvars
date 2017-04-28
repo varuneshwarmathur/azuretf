@@ -1,0 +1,6 @@
+default_user = "vmath1"
+default_password = "abc@12345"
+subscription_id = "18e753fd-4581-4545-b7e5-2b9d05103678"
+client_id       = "9e34bd66-1319-4a2b-9f6e-43179a0aad05"
+client_secret   = "a0d2c5fa-10a6-4b34-90c7-535e73e51ad8"
+tenant_id       = "4986e931-eeb9-4073-983f-ae18cda31382"
